@@ -1,2 +1,2 @@
 # Learn
-Started to learn Git
+Started to learn Git.
