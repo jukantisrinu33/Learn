@@ -1,3 +1,6 @@
 Adding new files git add filename
 
 and then commit by git commit -m "Message";
+
+
+git push origin main pushes to main branch
